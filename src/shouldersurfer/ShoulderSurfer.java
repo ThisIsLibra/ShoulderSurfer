@@ -36,10 +36,10 @@ public class ShoulderSurfer {
      */
     public static void main(String[] args) {
         //String used during debugging
-        calculateKeyMappings(DIVIDER + "te" + DIVIDER + "sten");
+        //calculateKeyMappings(DIVIDER + "te" + DIVIDER + "sten");
         //calculateKeyMappings("?qwer?yy");
         //Obtain source from input
-        //calculateKeyMappings(getArguments(args));
+        calculateKeyMappings(getArguments(args));
         //The LevenshteinDistance will be implemented in a coming update
         //calculateLevenshteinDistance(source);
     }
