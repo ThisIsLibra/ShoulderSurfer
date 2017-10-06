@@ -32,7 +32,7 @@ The character 'a' is uncertain. The keyboard has the keys q, w, a, s, z and x ma
 If the input has more uncertain characters, the total amount of options equal 'amount of combinations first uncertain letter' * 'amount of combinations second uncertain letter' * 'amount of combinations n-th uncertain letter'.
 
 # License and Usage
-The software is licensed under GNU General Public License v3.0. Illegal useage, such as creating lists of possible passwords used to hack without permission is absolutely forbidden.
+The software is licensed under GNU General Public License v3.0. Illegal useage, such as creating lists of possible passwords used to hack without permission, is absolutely forbidden.
 
 # Contact
 If you want to contact me about this application, please e-mail me at [info][at][maxkersten][dot][nl].
